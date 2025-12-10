@@ -21,7 +21,6 @@ My journey is all about **continuous learning, real-world projects, and becoming
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
 </p>
----
 
 ### 🚀 About Me
 
@@ -29,8 +28,6 @@ My journey is all about **continuous learning, real-world projects, and becoming
 - 📊 Skilled in **Data Cleaning, EDA, Visualization & Reporting**
 - 🌱 Learning **Machine Learning, Cloud & Data Engineering concepts**
 - ⚡  Love learning through hands-on projects
-  
----
 
 ## 💻 Tech Stack
 <p align="center">
@@ -51,33 +48,5 @@ My journey is all about **continuous learning, real-world projects, and becoming
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=7">
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat">
-</p>
-
 <p align="center">💼 Open to data analytics opportunities & freelance projects</p>
-<p align="center">📫 Reach me: <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a></p>
+<p align="center">📫 Reach me: <a href="mailto:sarahchichkar03@gmail.com">sarahchichkar03@gmail.com</a></p>
